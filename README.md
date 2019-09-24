@@ -21,7 +21,7 @@ This project will mainly use following package:
 
 ##  3. Significance and Approach
 
-Extracted and clean ext data from train dataset.
+Extracted and clean text data from train dataset.
 After tokenizer the train text data, combing two pre-trained embedding matrix use Bidirectional multi-layers LSTM and skip connection
 method to build RNN model. 
 
